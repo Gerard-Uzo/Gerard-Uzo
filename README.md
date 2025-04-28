@@ -13,7 +13,7 @@
 
 ### 🛠️ Skills:
 - **Languages**: PHP, Python
-- **Libraries/Frameworks**: Django, ReactM
+- **Libraries/Frameworks**: Django, React
 - **Databases/ORM**: MySQL, SQLite
 - **Tools**: CLI, Git, GitHub, Developer Tools
 
